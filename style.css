@@ -1,0 +1,23 @@
+html,
+body {
+  margin: auto;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  color: royalblue
+}
+
+.paragrapherouge{
+  color: red
+}
+
+.imagemillieu{
+  display: block;
+  margin: auto; 
+}
+ 
